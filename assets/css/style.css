@@ -64,41 +64,33 @@
 */
 .social-links {
  display: flex;
- background-color: wheat;
 }
 
 .twitter-box {
  width: 3%;
- margin-left: 30%;
+ margin-left: 42%;
 }
 
 .twitter {
  width: 100%;
- background-color: thistle;
 }
 
 .instagram-box {
  width: 3%;
- padding-left: 10px ;
- margin-right: 0px;
- padding-right: 0px;
+ padding-left: 10px;
 }
 
 .instagram {
  width: 90%;
- background-color: salmon;
 }
 
 .email-logo-box {
- width: 20%;
- padding-left: 0px;
- margin-left: 0px;
- background-color: greenyellow;
+ width: 3%;
+ padding-left: 10px;
 }
 
-.email {
+.email-logo {
  width: 100%;
- background-color: greenyellow;
 }
 
 /*second section*/
