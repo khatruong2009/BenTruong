@@ -1,3 +1,4 @@
+/*first black background section*/
 .first-section {
  background-color: #171717;
  font-family: 'Source Sans Pro', sans-serif;
@@ -33,6 +34,7 @@
  color: white;
 }
 
+/*email and subscribe boxes*/
 .email-box {
  display: flex;
  margin-left: 30%;
@@ -58,12 +60,45 @@
  padding-bottom: 4px;
 }
 
+/*social media links
+*/
 .social-links {
  display: flex;
+ background-color: wheat;
+}
+
+.twitter-box {
+ width: 3%;
+ margin-left: 30%;
 }
 
 .twitter {
- border-radius: 40%;
+ width: 100%;
+ background-color: thistle;
+}
+
+.instagram-box {
+ width: 3%;
+ padding-left: 10px ;
+ margin-right: 0px;
+ padding-right: 0px;
+}
+
+.instagram {
+ width: 90%;
+ background-color: salmon;
+}
+
+.email-logo-box {
+ width: 20%;
+ padding-left: 0px;
+ margin-left: 0px;
+ background-color: greenyellow;
+}
+
+.email {
+ width: 100%;
+ background-color: greenyellow;
 }
 
 /*second section*/
